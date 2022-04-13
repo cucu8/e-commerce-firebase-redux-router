@@ -14,6 +14,7 @@ const Navigation = () => {
                 <div className='nav-links-container'>
                     <Link to="/shop">Shop</Link>
                     <Link to="/sign-in">Sign In</Link>
+                    <Link to="/sign-up">Sign Up</Link>
                 </div>
             </div>
              <Outlet/>
